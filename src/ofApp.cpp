@@ -4,8 +4,8 @@
 void ofApp::setup(){
     xPos = ofRandom(ofGetWidth());
     yPos = ofRandom(ofGetHeight());
-    xSpeed = 1;
-    ySpeed = 1;
+    xSpeed = 10;
+    ySpeed = 10;
     text = "Welcome to Advanced Programming";
 
 }
