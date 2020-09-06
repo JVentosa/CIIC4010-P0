@@ -6,7 +6,7 @@ void ofApp::setup(){
     yPos = ofRandom(ofGetHeight());
     xSpeed = 10;
     ySpeed = 10;
-    text = "Welcome to Advanced Programming";
+    text = "Let's Dance";
 
 }
 
